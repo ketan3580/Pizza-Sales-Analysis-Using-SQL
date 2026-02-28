@@ -17,6 +17,8 @@ To demonstrate SQL skills including data aggregation, joins, grouping, subquerie
 1) MySQL
 2) SQL (Joins, GROUP BY, Subqueries, Aggregate Functions)
 
+## Queries Presentation : <a href = "https://github.com/ketan3580/Pizza-Sales-Analysis-Using-SQL/blob/main/Queries%20-%20Pizza%20Sales%20Analysis.pdf">Pizza Sales Queries</a>
+
 ## Skills Demonstrated
 
 - Data Cleaning
