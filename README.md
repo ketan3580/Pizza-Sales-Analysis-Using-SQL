@@ -3,6 +3,10 @@
 To demonstrate SQL skills including data aggregation, joins, grouping, subqueries, and KPI analysis.
 
 ## Dataset used : <a href = "https://github.com/ketan3580/Pizza-Sales-Analysis-Using-SQL/blob/main/Pizza_Sales_Dataset.zip">Pizza Sales Dataset</a>
+## Tools Used : 
+
+1) MySQL
+2) SQL (Joins, GROUP BY, Subqueries, Aggregate Functions)
 
 ### Dataset Contain information about : 
 - Orders
@@ -33,4 +37,5 @@ To demonstrate SQL skills including data aggregation, joins, grouping, subquerie
 - Calculate the percentage contribution of each pizza type to total revenue.
 - Analyze the cumulative revenue generated over time.
 - Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+
 
