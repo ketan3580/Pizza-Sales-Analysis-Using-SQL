@@ -3,10 +3,6 @@
 To demonstrate SQL skills including data aggregation, joins, grouping, subqueries, and KPI analysis.
 
 ## Dataset used : <a href = "https://github.com/ketan3580/Pizza-Sales-Analysis-Using-SQL/blob/main/Pizza_Sales_Dataset.zip">Pizza Sales Dataset</a>
-## Tools Used : 
-
-1) MySQL
-2) SQL (Joins, GROUP BY, Subqueries, Aggregate Functions)
 
 ### Dataset Contain information about : 
 - Orders
@@ -15,6 +11,21 @@ To demonstrate SQL skills including data aggregation, joins, grouping, subquerie
 - Pizza Categories
 - Prices
 - Order Time & Date
+
+## Tools Used : 
+
+1) MySQL
+2) SQL (Joins, GROUP BY, Subqueries, Aggregate Functions)
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Aggregation
+- Complex Joins
+- Business KPI Analysis
+- Query Optimization
+- Subqueries
+- Insight Analysis
 
 ## Questions
 
@@ -38,4 +49,13 @@ To demonstrate SQL skills including data aggregation, joins, grouping, subquerie
 - Analyze the cumulative revenue generated over time.
 - Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
+## Insights
+- High-priced pizzas increase profit margins.
+- Classic category contributes the highest order volume.
+- Peak sales occur during evening hours
+- Daily order trends show consistent demand with spikes during weekends.
+- Some pizzas may not be ordered frequently but generate high revenue due to higher price.
 
+## Final Conclusion
+
+This project demonstrates strong SQL fundamentals and the ability to translate raw data into actionable business insights.
