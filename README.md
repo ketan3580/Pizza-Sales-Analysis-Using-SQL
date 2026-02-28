@@ -2,7 +2,7 @@
 ## Project Objectives
 To demonstrate SQL skills including data aggregation, joins, grouping, subqueries, and KPI analysis.
 
-## Dataset used <a href = "https://github.com/ketan3580/Pizza-Sales-Analysis-Using-SQL/blob/main/Pizza_Sales_Dataset.zip">Pizza Sales Dataset</a>
+## Dataset used : <a href = "https://github.com/ketan3580/Pizza-Sales-Analysis-Using-SQL/blob/main/Pizza_Sales_Dataset.zip">Pizza Sales Dataset</a>
 
 ### Dataset Contain information about : 
 - Orders
@@ -27,6 +27,7 @@ To demonstrate SQL skills including data aggregation, joins, grouping, subquerie
 - Join relevant tables to find the category-wise distribution of pizzas.
 - Group the orders by date and calculate the average number of pizzas ordered per day.
 - Determine the top 3 most ordered pizza types based on revenue.
+
 
 ### Advanced Questions 
 - Calculate the percentage contribution of each pizza type to total revenue.
