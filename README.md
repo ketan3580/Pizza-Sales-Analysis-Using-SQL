@@ -4,7 +4,7 @@ To demonstrate SQL skills including data aggregation, joins, grouping, subquerie
 
 ## Dataset used : <a href = "https://github.com/ketan3580/Pizza-Sales-Analysis-Using-SQL/blob/main/Pizza_Sales_Dataset.zip">Pizza Sales Dataset</a>
 
-### Dataset Contain information about : 
+### Dataset Contains information about : 
 - Orders
 - Order Details
 - Pizza Types
